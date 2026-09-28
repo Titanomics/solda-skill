@@ -5,7 +5,7 @@
 ## 설치
 ```
 cd ~/.claude/skills        # 윈도우: cd C:\Users\<사용자>\.claude\skills
-git clone https://github.com/lehasa3219-debug/solda-skill.git 솔다
+git clone https://github.com/Titanomics/solda-skill.git 솔다
 ```
 클로드 코드 재시작.
 
